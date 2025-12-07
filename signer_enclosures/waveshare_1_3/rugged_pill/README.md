@@ -1,6 +1,6 @@
 ## The Rugged Pill Enclosure
 
-<img src="/docs/img/Rugged_Pill_Thumb.jpg" width="600" height="400">
+<img src="/img/Rugged_Pill_Thumb.jpg" width="600" height="400">
 
 - The Rugged Pill is an enclosure designed for building a SeedSigner without the need for screws or spacers.
 - This enclosure requires use of the so called "zerocam", which allows for a more compact form factor.
