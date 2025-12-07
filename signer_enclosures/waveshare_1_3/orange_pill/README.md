@@ -2,7 +2,7 @@
 
 The "Orange Pill" was the first SeedSigner enclosure. It's eye-catching design is the enclosure most commonly associated with the SeedSigner project for many. While aesthetically appealing and fun to showcase to others, the thumbstick topper's sub-optimal design, the need for secondary hardware components, and other drawbacks make this enclosure a less desirable choice for every day SeedSigner use.
 
-<img src="/docs/img/Orange_Pill_Models.JPG" width="400" height="400">
+<img src="/img/Orange_Pill_Models.JPG" width="400" height="400">
 
 ### Characterisics:
 - Supported Camera? Legacy RPi Camera (w/ gold Pi Zero Cable)
