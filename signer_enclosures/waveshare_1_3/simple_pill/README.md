@@ -2,7 +2,7 @@
 
 The "Simple Pill" is a community-contributed design by @blackcoffeebtc. The most significant innovation of this design was the adaptation of a DPAD-stype thumbstick topper for a SeedSigner enclosure, offering a much more comfortable and responsive control experience. The Simple Pill was also the first enclosure to allow for easy access to the device's memory card.
 
-<img src="/docs/img/Simple_Pill_Models.JPG" width="400" height="400">
+<img src="/img/Simple_Pill_Models.JPG" width="400" height="400">
 
 ### Characterisics:
 - Supported Camera? Legacy RPi Camera (w/ gold Pi Zero Cable)
