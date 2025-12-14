@@ -1,13 +1,14 @@
-#SeedSigner Plus Display Hat
-##Supporting the Project
+# SeedSigner Plus Display Hat
+
+## Supporting the Project
 If you are producing these to sell, please consider donating $5 per board to X to support the project.
 
-##Design Files
+## Design Files
 The files used to produce this hat can be found in the `designspark_format` folder. This also includes production files that can be used to have the board fabricated.
 
 _Work is underway on converting this to KiCAD for easier modification going forward._
 
-##LCD Display
+## LCD Display
 
 The current design assumes LCD available here: https://www.alibaba.com/x/B1E3wJ
 
