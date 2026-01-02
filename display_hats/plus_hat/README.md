@@ -1,7 +1,7 @@
 # SeedSigner Plus Display Hat
 
 ## Supporting the Project
-If you are producing these to sell, please consider donating <TBC> per board to <TBC> to support the project.
+If you are producing these to sell, please consider donating X per board to Y to support the project.
 
 ## Design Files
 The files used to produce the original SeedSigner+ hat can be found in the `designspark_format` folder. This also includes production files that can be used to have the board fabricated.
@@ -13,19 +13,19 @@ A version in KiCAD format can also be found in the `kicad_format` folder along w
 The current design assumes LCD available here: https://www.alibaba.com/x/B1E3wJ
 
 **LCD Specifications**
-Size: 2.8 inch
-LCD Type: IPS (A TFT cheaper TFT panel will work, but has a smaller viewing angle)
-Outline Dimensions: 47.8*66.95*2.13mm
-Number of Dots: 240(RGB)*320
-Controller: ST7789
-PIN NO.: 40P
-Display Color: RGB565
-Backlight: White LED
-Polarizer Mode: Transmissive
-Data Interface: 3/4-Wire SPI interface, MCU 8/16Bit interface
-Operating Temp.: -20 ~ 70 degree
-Storage Temp.: -30 ~ 80 degree
-Viewing Direction: 12 O’clock / Full
+* Size: 2.8 inch
+* LCD Type: IPS (A TFT cheaper TFT panel will work, but has a smaller viewing angle)
+* Outline Dimensions: 47.8*66.95*2.13mm
+* Number of Dots: 240(RGB)*320
+* Controller: ST7789
+* PIN NO.: 40P
+* Display Color: RGB565
+* Backlight: White LED
+* Polarizer Mode: Transmissive
+* Data Interface: 3/4-Wire SPI interface, MCU 8/16Bit interface
+* Operating Temp.: -20 ~ 70 degree
+* Storage Temp.: -30 ~ 80 degree
+* Viewing Direction: 12 O’clock / Full
 
 **Pinout for Display**
 | PIN | Symbol        | Notes                                                     |
