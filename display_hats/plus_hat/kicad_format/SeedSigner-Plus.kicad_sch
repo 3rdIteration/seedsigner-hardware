@@ -1,0 +1,182 @@
+(kicad_sch
+	(version 20250114)
+	(generator "eeschema")
+	(generator_version "9.0")
+	(uuid "8c9c54c8-0cfa-43ef-b1ba-3cda1bca877f")
+	(paper "A4")
+	(lib_symbols)
+	(sheet
+		(at 149.86 68.58)
+		(size 21.59 35.56)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "3cd2f23e-b227-49d9-b25b-361ae5b6ef9a")
+		(property "Sheetname" "RPi Interface"
+			(at 149.86 67.8684 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "rpi_interface.kicad_sch"
+			(at 149.86 104.7246 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "SeedSigner-Plus"
+				(path "/8c9c54c8-0cfa-43ef-b1ba-3cda1bca877f"
+					(page "2")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 187.96 88.9)
+		(size 16.51 8.89)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "85d69276-db74-407d-b0d0-4d21c866381e")
+		(property "Sheetname" "Screen"
+			(at 187.96 88.1884 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "screen.kicad_sch"
+			(at 187.96 98.3746 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "SeedSigner-Plus"
+				(path "/8c9c54c8-0cfa-43ef-b1ba-3cda1bca877f"
+					(page "4")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 187.96 71.12)
+		(size 16.51 10.16)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "c8f72531-4f53-40e4-b4b6-b276a357b2ab")
+		(property "Sheetname" "Buttons"
+			(at 187.96 70.4084 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "buttons.kicad_sch"
+			(at 187.96 81.8646 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "SeedSigner-Plus"
+				(path "/8c9c54c8-0cfa-43ef-b1ba-3cda1bca877f"
+					(page "3")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 114.3 80.01)
+		(size 21.59 17.78)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "dd2ceaf9-87b1-40a7-9ece-7767bfc1c03a")
+		(property "Sheetname" "Power"
+			(at 114.3 79.2984 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "Power.kicad_sch"
+			(at 114.3 98.3746 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "SeedSigner-Plus"
+				(path "/8c9c54c8-0cfa-43ef-b1ba-3cda1bca877f"
+					(page "3")
+				)
+			)
+		)
+	)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+	(embedded_fonts no)
+)

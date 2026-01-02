@@ -1,12 +1,12 @@
 # SeedSigner Plus Display Hat
 
 ## Supporting the Project
-If you are producing these to sell, please consider donating $5 per board to X to support the project.
+If you are producing these to sell, please consider donating <TBC> per board to <TBC> to support the project.
 
 ## Design Files
-The files used to produce this hat can be found in the `designspark_format` folder. This also includes production files that can be used to have the board fabricated.
+The files used to produce the original SeedSigner+ hat can be found in the `designspark_format` folder. This also includes production files that can be used to have the board fabricated.
 
-_Work is underway on converting this to KiCAD for easier modification going forward._
+A version in KiCAD format can also be found in the `kicad_format` folder along with all he files needed for low-cost economic fabrication with JLCPCB. (Very low cost if you are happy have one side assembled and manually solder the buttons on)
 
 ## LCD Display
 
@@ -14,7 +14,7 @@ The current design assumes LCD available here: https://www.alibaba.com/x/B1E3wJ
 
 **LCD Specifications**
 Size: 2.8 inch
-LCD Type: TFT
+LCD Type: IPS (A TFT cheaper TFT panel will work, but has a smaller viewing angle)
 Outline Dimensions: 47.8*66.95*2.13mm
 Number of Dots: 240(RGB)*320
 Controller: ST7789
